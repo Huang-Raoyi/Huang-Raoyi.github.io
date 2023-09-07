@@ -22,10 +22,11 @@ I am fortunate to be working with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/
 
 
 ## ML/AI projects
-| Project | Description            |
-| ------- | ---------------------- |
-| Proj1   | Description for Proj1  |
-| Proj2   | Description for Proj2  |
+| Project | Description |
+|---------|-------------|
+| Proj1   | Desc1       |
+| Proj2   | Desc2       |
+
 
 
 ## Software projects
