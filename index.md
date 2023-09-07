@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I am a first-year graduate student in Information Systems Management at Carnegie Mellon University, working with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/). Before joining CMU, I obtained a Bachelor of Science in Computer Science at The Hong Kong Polytechnic University with the First Class Honours.
+
+My research interests lie in Human-Computer Interaction, LLM Application and Evaluation, and Open-domain Chatbot System.
+
+
 
 ## Research Interests
 
