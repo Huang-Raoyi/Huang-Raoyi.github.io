@@ -1,100 +1,53 @@
-## Full Projects
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-### AI/ML/Data Modeling
+<div class="publications">
+<ol class="bibliography">
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Monte carlo simulation for NPVs given a distribution of inflation incomes.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> A Loan Amount prediction model for the new users of AlphaMoney.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Recommendation systems - content-based & collaborative filtering.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Feature engineer and predict house prices.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Analyze and cluster stock prices.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> FakeDetector - A disaster tweet recognition system.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> ToxicGuard - A toxic comment detection system.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> SEIR model - Analyze and simulate asymptomatic COVID-19 cases in Hong Kong.</td>
-    </tr>
-  </tbody>
-</table>
+{% for link in site.data.projects.main %}
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    {% if link.image %} 
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    {% endif %}
+    {% if link.conference_short %} 
+    <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% endif %}
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em>{{ link.conference }}</em>
+      </div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% endif %}
+      {% if link.page %} 
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.notes %} 
+      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}
+      {% if link.others %} 
+      {{ link.others }}
+      {% endif %}
+    </div>
+  </div>
+</div>
+</li>
 
-### Software
+<br>
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Cyber Cop - .</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Creative media design - audio, image, video.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Creative media design - audio, image, video.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> WebSearch - A search engine for web page retrieval.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> LegiFind - A search engine for legal case retrieval.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Tarantula - Implement and evaluate the debugging tool.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Production Line Scheduler - Help the company schedule their production for best utilization of the three plants.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Multi-threaded Web Server </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Jungle Game - A Chinese board game supporting two-player mode written in Java with designed GUI. </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Course Selection Platform - A platform developed by Java, SQL, JavaFx, and Scenebuilder with an Oracle database in the backend. </td>
-    </tr>
-  </tbody>
-</table>
+{% endfor %}
+
+</ol>
+</div>
+
