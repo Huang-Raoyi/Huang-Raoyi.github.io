@@ -21,8 +21,6 @@ I am fortunate to be working with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/
 - **[Sept. 2022]** Joined the MISM program at CMU.
 
 
-{% include_relative _includes/projects.md %}
-
-
+<!--- {% include_relative _includes/projects.md %}  --->
 <!--- {% include_relative _includes/publications.md %} --->
 <!--- {% include_relative _includes/services.md %} --->
