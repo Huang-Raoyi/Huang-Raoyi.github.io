@@ -82,10 +82,6 @@
     </tr>
     <tr>
       <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
-      <td> Tarantula - Implement and evaluate the debugging tool.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tjysdsg/ali_to_phone">tjysdsg/ali_to_phone</a></td>
       <td> Production Line Scheduler - Help the company schedule their production for best utilization of the three plants.</td>
     </tr>
     <tr>
