@@ -1,10 +1,13 @@
-## AI/ML
+## Full Projects
+
+### AI/ML
 
 <table>
   <thead>
     <tr>
       <th>Project</th>
       <th>Description</th>
+      <th>Domain</th>
     </tr>
   </thead>
   <tbody>
@@ -16,7 +19,7 @@
 </table>
 
 
-## Software
+### Software
 
 <table>
   <thead>
