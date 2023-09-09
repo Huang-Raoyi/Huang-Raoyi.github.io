@@ -1,9 +1,7 @@
 main:
 
   - title: ChatGPT-empowered Digital Blogging Assistant for Elderly Learning
-    authors: A web application that showcase excellent writing examples, assist composition outlines and logics by interactive 
-    question answering, and ease manipulation difficulty of digital devices by dragging-and-dropping to let AI co-create a digital blog
-    with the elderly. The software requirements are derived from an informative study on elderly blogging behavior of 20+ interviewees.
+    authors: A web application that showcase excellent writing examples, assist composition outlines and logics by interactive question answering, and ease manipulation difficulty of digital devices by dragging-and-dropping to let AI co-create a digital blog with the elderly. The software requirements are derived from an informative study on elderly blogging behavior of 20+ interviewees.
     image: ./assets/img/elderly-ui.png
     code: https://github.com/Huang-Raoyi/oa-learning-app
 
