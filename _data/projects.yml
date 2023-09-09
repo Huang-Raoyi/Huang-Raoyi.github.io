@@ -5,6 +5,7 @@ main:
     question answering, and ease manipulation difficulty of digital devices by dragging-and-dropping to let AI co-create a digital blog
     with the elderly. The software requirements are derived from an informative study on elderly blogging behavior of 20+ interviewees.
     image: ./assets/img/elderly-ui.png
+    code: https://github.com/Huang-Raoyi/oa-learning-app
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
