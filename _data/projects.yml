@@ -7,7 +7,7 @@ main:
 
   - title: Bayer Educational Information Mobile App 
     authors: A cross-platform mobile application myRadiology360 developed by Flutter and Firebase backend, which offers educational resources on imaging exams and disease states for patients and supports continued learning for healthcare professionals.
-    image: ./assets/img/elderly-ui.png
+    image: ./assets/img/bayer-ui.png
     code: https://github.com/pawankumar-bayer/bayer_capstone
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
