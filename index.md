@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a first-year graduate student in Information Systems Management at Carnegie Mellon University expected to graduate in 2023 Fall. Before joining CMU, I obtained a Bachelor of Science in Computer Science at The Hong Kong Polytechnic University with the First Class Honours in June 2022. 
+Hi! I am a first-year graduate student in Information Systems Management at Carnegie Mellon University expected to graduate in December 2023. Before joining CMU, I obtained a Bachelor of Science in Computer Science at The Hong Kong Polytechnic University with the First Class Honours in June 2022. 
 
-I am fortunate to work with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for NLP dataset characterization. My research interests lie in Human-Computer Interaction, LLM Application and Evaluation, and Open-domain Chatbot System.
+I am fortunate to work with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for NLP dataset characterization. I'm a versatile AI & Software Engineer interested in developing State-of-the-Art AI Solutions for anyone to use and adapt. I have experiences in LLM application and Evaluation, Open-domain Chatbot System, and Time-series Data Prediction.
 
 
 
