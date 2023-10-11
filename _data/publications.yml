@@ -6,9 +6,9 @@ main:
     conference: The ART of Safety: Workshop on Adversarial testing and Red-Teaming for generative AI <strong>(IJCNLP-AACL)</strong>, 2023.
     pdf: https://ryhcathy.github.io/
     code: https://ryhcathy.github.io/
+    notes: Early Accept
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
     # others: Some brief explaination about the projects
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
