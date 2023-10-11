@@ -1,15 +1,14 @@
 main:
 
 
-  - title: Measuring Adversarial Datasets (paper, codes)
+  - title: Measuring Adversarial Datasets
     authors: Yuanchen Bai *,  <strong>Raoyi Huang *</strong>, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu <br>
-    conference_short: IJCNLP-AACL 2023 
-    # conference: The ART of Safety: Workshop on Adversarial testing and Red-Teaming for generative AI, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    conference: The ART of Safety: Workshop on Adversarial testing and Red-Teaming for generative AI <strong>(IJCNLP-AACL)</strong>, 2023.
+    pdf: https://ryhcathy.github.io/
+    code: https://ryhcathy.github.io/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
+    notes: Early Accept
     # others: Some brief explaination about the projects
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
