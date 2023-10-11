@@ -15,10 +15,11 @@ I am fortunate to work with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherr
 <!--- - **Machine Learning:** meta-learning, incremental learning, transfer learning --->
 
 ## News
+(05-06-21) First-ever conference paper accepted (at ACL-IJCNLP 2021)! We show that using context from the citation graph is valuable for scientific information extraction.
 
+- **[Sep. 2023]** First-ever paper in dataset adversariality accepted (at IJCNLP-AACL 2023)! We show NLP dataset characterization metrics are valuable for adversarial test measurements.
 - **[Aug. 2023]** Started my capstone study at [Bayer](https://www.bayer.com/en/) for myRadiology360 cross-platform mobile application development.
 - **[May 2023]** Started a summer internship at [HKUST VisLab](http://vis.cse.ust.hk/) working on LLM-empowered reverse engineering for visualization.
-- **[Sept. 2022]** Joined the MISM program at CMU.
 
 
 {% include_relative _includes/projects.md %} 
