@@ -21,7 +21,10 @@ I am fortunate to work with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherr
 
 
 {% include_relative _includes/projects.md %} 
+
 {% include_relative _includes/publications.md %}
+
+
 <!--- {% include_relative _includes/services.md %} --->
 
 
