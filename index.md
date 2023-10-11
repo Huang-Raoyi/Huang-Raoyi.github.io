@@ -22,11 +22,11 @@ I am fortunate to work with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherr
 
 
 {% include_relative _includes/projects.md %} 
-<!--- {% include_relative _includes/publications.md %} --->
+{% include_relative _includes/publications.md %}
 <!--- {% include_relative _includes/services.md %} --->
 
 
-## Publications
-Measuring Adversarial Datasets (paper, codes) <br>
-Yuanchen Bai*, Raoyi Huang*, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu <br>
-IJCNLP-AACL 2023 
+<!---## Publications --->
+<!---Measuring Adversarial Datasets (paper, codes) <br> --->
+<!---Yuanchen Bai*, Raoyi Huang*, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu <br> --->
+<!---IJCNLP-AACL 2023  --->
