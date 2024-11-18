@@ -8,7 +8,11 @@ Hi! I am a first-year graduate student in Information Systems Management at Carn
 
 I am fortunate to work with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for NLP dataset characterization. I'm a versatile AI & Software Engineer interested in developing State-of-the-Art AI Solutions for anyone to use and adapt. I have experiences in LLM application and Evaluation, Open-domain Chatbot System, and Time-series Data Prediction. -->
 
-Hello! I’m an Account Solution Architect at Amazon Web Services, dedicated to bridging technological gaps with innovative AI solutions. My expertise spans large language model applications, conversational AI, time-series data prediction, and image generation. Committed to facilitating digital transformation, I aim to seamlessly integrate AI technologies within industry practices, enhancing efficiency and innovation. If you’re interested in leveraging AI to transform your business operations, I’d love to connect and explore how we can collaborate to achieve your goals.
+Hello! I’m an Account Solution Architect at Amazon Web Services, dedicated to bridging technological gaps with innovative AI solutions. <br> 
+
+My expertise spans large language model applications, conversational AI, time-series data prediction, and image generation. Committed to facilitating digital transformation, I aim to seamlessly integrate AI technologies within industry practices, enhancing efficiency and innovation. <br>
+
+If you’re interested in leveraging AI to transform your business operations, I’d love to connect and explore how we can collaborate to achieve your goals.
 
 
 <!--- ## Research Interests --->
