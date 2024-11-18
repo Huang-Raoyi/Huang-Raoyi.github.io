@@ -1,9 +1,9 @@
 
 # Basic Information 
 title: Cathy Huang
-position: AI Solution Engineer
-# affiliation: CMU WInE Lab
-# email: raoyih@andrew.cmu.edu
+position: AI Solution Architect
+affiliation: Amazon Web Services
+email: raoyih@amazon.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -15,8 +15,8 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/
 # cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/ryhCathy
-linkedin: https://www.linkedin.com/in/raoyi-cathy-huang-5b7719189/
+# github_link: https://github.com/ryhCathy
+# linkedin: https://www.linkedin.com/in/raoyi-cathy-huang-5b7719189/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
