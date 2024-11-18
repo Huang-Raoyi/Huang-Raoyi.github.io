@@ -1,12 +1,12 @@
 main:
 
 
-  - title: Measuring Adversarial Datasets
-    authors: Yuanchen Bai*,  <strong>Raoyi Huang*</strong>, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu
-    conference: IJCNLP-AACL, 2023
-    pdf: https://ryhcathy.github.io/
-    code: https://ryhcathy.github.io/
-    notes: Early Accept
+  # - title: Measuring Adversarial Datasets
+  #   authors: Yuanchen Bai*,  <strong>Raoyi Huang*</strong>, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu
+  #   conference: IJCNLP-AACL, 2023
+  #   pdf: https://ryhcathy.github.io/
+  #   code: https://ryhcathy.github.io/
+  #   notes: Early Accept
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # others: Some brief explaination about the projects
