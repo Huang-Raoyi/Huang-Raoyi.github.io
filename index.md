@@ -10,7 +10,7 @@ I am fortunate to work with [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherr
 
 Hello! I’m an Account Solution Architect at Amazon Web Services, dedicated to bridging technological gaps with innovative AI solutions. <br> 
 
-My expertise spans large language model applications, conversational AI, time-series data prediction, and image generation. Committed to facilitating digital transformation, I aim to seamlessly integrate AI technologies within industry practices, enhancing efficiency and innovation. <br>
+My expertise spans **large language model applications, conversational AI, time-series data prediction, and image generation**. Committed to facilitating digital transformation, I aim to seamlessly integrate AI technologies within industry practices, enhancing efficiency and innovation. <br>
 
 If you’re interested in leveraging AI to transform your business operations, I’d love to connect and explore how we can collaborate to achieve your goals.
 
